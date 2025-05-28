@@ -6,11 +6,13 @@ A very tiny OS written in Zig, which can be run on QEMU.
 
 ### Rationale
 
+* Zig 0.13
+* Fun
 * Very minimalist
 * Easy to understand
 * Great for Learning
-* Altought does not anything useful it should how Zig can be used to write an OS
-* Fun
+* Altought does not anything useful it shows how Zig can be used to write an OS
+
 
 ### Build
 
