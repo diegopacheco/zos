@@ -8,11 +8,16 @@ A very tiny OS written in Zig, which can be run on QEMU.
 
 * Zig 0.13
 * Fun
+* only ~110 LoC
+  * Zig           : 37 Loc
+  * Zig Build     : 31 LoC
+  * Assembly      : 31 Loc
+  * Linker Script : 25 Loc
 * Very minimalist
 * Easy to understand
 * Great for Learning
 * Altought does not anything useful it shows how Zig can be used to write an OS
-
+* POC
 
 ### Build
 
